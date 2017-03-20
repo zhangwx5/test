@@ -1,1 +1,2 @@
-ssh-keygen  -t rsa ¨CC "zhangwx5@asiainfo.com" 
+ssh-keygen  -t rsa ¨CC "zhangwx5@asiainfo.com"
+ asaaa
